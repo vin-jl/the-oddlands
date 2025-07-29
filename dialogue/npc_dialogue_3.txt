@@ -1,0 +1,4 @@
+Hey! Nice work. Seems like there isn't a_nl_button here. Maybe the key will do?
+Once you have the key, press C to open the_nl_menu. Then, open the INVENTORY panel.
+To use any item, you must have it equipped._nl_Now, try taking the key and equipping it!
+(P.S. If you are having trouble walking by_nl_the one space gaps, try walking diagonally_nl_into the tree. It will align you!)

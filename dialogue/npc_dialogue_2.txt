@@ -1,0 +1,2 @@
+This here is a locked door. To open it, you_nl_must press the associated button or have a_nl_key.
+Hey look! There is a button on the ground!_nl_Why don't you try pressing it?

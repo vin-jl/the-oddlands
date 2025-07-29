@@ -1,0 +1,6 @@
+Great job! Now, before you enter the next_nl_room, there are a few things you must know._nl_The key in the next room is guarded by_nl_spiders! When encountered, a spider will
+The key in the next room is guarded by a_nl_spider! When encountered, a spider will_nl_put you in a battle.
+How do I battle you may ask? It's simple!_nl_By opening the menu and the CHARACTERS_nl_tab, you can see the stats of each of your_nl_party members. They will aid in battle.
+When in battle, you can ATTACK to do some_nl_damage, SKILL to use a skill (read the details,_nl_they're helpful!), DEFEND to recover, and_nl_STATS to view party stat changes!
+If you wish to change your choice, press_nl_the 1-4 keys to switch to each character._nl_The battle starts when all party members_nl_have made their choice.
+Some skills can target allies, and others_nl_will buff yourself, so be sure to read them_nl_all carefully. Good luck!
